@@ -156,6 +156,6 @@ st.sidebar.write("""
 5. Click "Generate Caption" to get an automatic caption for the image.
 6. View and listen to the generated answer and caption below the input.
 """)
-st.sidebar.write("### Developed by Vinay")
+st.sidebar.write("### Developed by Harshini")
 
 logger.info("Streamlit app started")
